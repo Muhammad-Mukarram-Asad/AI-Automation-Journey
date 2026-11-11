@@ -13,11 +13,7 @@ I am starting a dedicated journey into **AI Automations, Agents, and Intelligent
 Here is what I am currently focusing on and building toward:
 
 - [x] Set up the AI Automation Lab repository
-- [ ] **Phase 1: Foundations & APIs** — Working with OpenAI/Gemini/Claude APIs, structured outputs, and basic Python scripting
-- [ ] **Phase 2: No-Code / Low-Code Workflows** — Building visual automations using n8n / Make.com & Webhooks
-- [ ] **Phase 3: RAG & Knowledge Systems** — Connecting LLMs to custom documents, PDFs, and vector databases
-- [ ] **Phase 4: Autonomous AI Agents** — Multi-step reasoning, tool calling, and task automation (LangGraph / CrewAI)
-- [ ] **Phase 5: End-to-End Capstone Demos** — Full business-ready automation pipelines
+- [x] **Project 1: Daily News Digest** — Working with OpenAI/Gemini/Claude APIs, structured outputs, and basic Python scripting
 
 ---
 
